@@ -1,0 +1,7 @@
+variable,Corr,SE,N,mean_race_shares
+kfr white county (>80%),.68000001,.039999999,1986,90
+kfr white county (>90%),.69,.050000001,1451,95
+kfr white zip (>80%),.69999999,.02,12186,91
+kfr white zip (>90%),.69999999,.02,8691,95
+kfr black zip (>80%),.62,.14,208,90
+kfr black zip (>90%),.63999999,.16,98,95

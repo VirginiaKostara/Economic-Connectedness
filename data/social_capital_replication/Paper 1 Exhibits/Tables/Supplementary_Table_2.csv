@@ -1,0 +1,5 @@
+variable,mean_corr,signal_sd,noise_sd,opp_sign
+ec,.68000001,.18000001,.13,0.0%
+clustering,.38,.33000001,.16,12.5%
+support_ratio,-.079999998,.25999999,.17,37.9%
+volunteering_rate,.40000001,.23,.17,4.1%

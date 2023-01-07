@@ -1,0 +1,17 @@
+
+="",="(1)",="(2)",="(3)",="(4)",="(5)",="(6)",="(7)"
+="",="log(upward income mobility)",="log(upward income mobility)",="log(upward income mobility)",="log(upward income mobility)",="log(upward income mobility)",="log(upward income mobility)",="log(causal upward income mobility)"
+
+="log(EC)",="0.278***",="",="0.270***",="",="0.279***",="",=""
+="",="(0.010)",="",="(0.009)",="",="(0.023)",="",=""
+
+="log(high-SES exposure)",="",="0.276***",="",="0.272***",="",="0.294***",="0.114***"
+="",="",="(0.016)",="",="(0.018)",="",="(0.029)",="(0.024)"
+
+="log(1 - friending bias)",="",="0.286***",="",="0.262***",="",="0.100",="0.322***"
+="",="",="(0.044)",="",="(0.045)",="",="(0.154)",="(0.090)"
+
+="Observations",="18329",="18329",="18329",="18329",="3010",="3010",="2134"
+
+="Standard errors in parentheses"
+="* p<0.1, ** p<0.05, *** p<0.01"

@@ -1,0 +1,6 @@
+statistic,ec_high_school,ec_college,exposure_high_school,exposure_college,bias_high_school,bias_college
+Corr. using Par vs Own Rank,.87,.79000002,.87,.79000002,.58999997,.62
+Mean using Parent SES Rank,1.04,1.1,1.05,1.12,.0099999998,.02
+SD using Parent SES Rank,.34999999,.25999999,.34999999,.25999999,.039999999,.039999999
+Mean using Own SES Rank,1.11,1.39,1.13,1.42,.02,.029999999
+SD using Own SES Rank,.38,.31999999,.38,.30000001,.059999999,.050000001

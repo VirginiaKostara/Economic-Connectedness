@@ -1,0 +1,12 @@
+variable,countyCorr,countySE,zipCorr,zipSE
+ec_county,.64999998,.039999999,,
+child_ec_county,.41,.039999999,,
+clustering_county,0,.050000001,,
+support_ratio_county,-.22,.059999999,,
+volunteering_rate_county,.18000001,.050000001,,
+civic_organizations_county,.059999999,.050000001,,
+support_ratio_zip,,,-.02,.029999999
+volunteering_rate_zip,,,.25999999,.02
+ec_zip,,,.68000001,.02
+clustering_zip,,,.1,.029999999
+civic_organizations_zip,,,-.029999999,.0099999998
